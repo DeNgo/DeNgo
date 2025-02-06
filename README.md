@@ -60,9 +60,14 @@
 
 <hr>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DeNgo&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/DeNgo)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeNgo&theme=material-palenight)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://github.com/DeNgo">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=DeNgo&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=DeNgo&theme=material-palenight" />
+  </a>
+</p>
 
 <hr>
 
