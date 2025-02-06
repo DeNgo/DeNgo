@@ -67,6 +67,10 @@
 <br>
 <br>
 
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DeNgo&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/DeNgo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeNgo&theme=material-palenight)](https://git.io/streak-stats)
+
+
 
 
 ### 🚀 Última actividad en GitHub:
