@@ -21,9 +21,9 @@
 
 <hr>
 
-### 🛠️ Tecnologías y Herramientas
+<h3 align="center">🛠️ Tecnologías y Herramientas<h3/>
 
-#### Front-end
+<h4 align="center">Front-end<h4/>
 <p align="center">
   <img alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
   <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
@@ -35,7 +35,7 @@
   <img alt="WordPress" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" />
 </p>
 
-#### Back-end
+<h4 align="center">Back-end<h4/>
 <p align="center">
   <img alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
   <img alt="Spring Boot" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
@@ -44,13 +44,13 @@
   <img alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 </p>
 
-#### Bases de Datos
+<h4 align="center">Bases de Datos<h4/>
 <p align="center">
   <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
   <img alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 </p>
 
-#### Herramientas
+<h4 align="center">Herramientas</h4>
 <p align="center">
   <img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
   <img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
@@ -62,10 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/DeNgo">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=DeNgo&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=DeNgo&theme=material-palenight" />
+    <img height="265px" src="https://github-readme-stats.vercel.app/api?username=DeNgo&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
   </a>
 </p>
 
